@@ -27,8 +27,8 @@ HTML | CSS | Python
 <div align="center" >
 - Minhas Estatísticas -
 <br><br>
-<img height="125cm" src="https://github-readme-stats.vercel.app/api?username=xJoaoPedro&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="125cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xJoaoPedro&show_icons=true&theme=tokyonight&layout=compact" />
+<img height="125cm" src="https://github-readme-stats.vercel.app/api?username=xJoaoPedro&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
+<img height="125cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xJoaoPedro&theme=tokyonight" />
 </div>
 
 ---
