@@ -28,7 +28,7 @@ HTML | CSS | Python
 - Minhas Estatísticas -
 <br><br>
 <img height="125cm" src="https://github-readme-stats-git-master-xjoaopedro.vercel.app/api/?username=xJoaoPedro&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img height="125cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=xJoaoPedro&theme=tokyonight&layout=compact" />
+<img height="125cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xJoaoPedro&theme=tokyonight&layout=compact" />
 </div>
 
 ---
