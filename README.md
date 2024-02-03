@@ -1,6 +1,6 @@
 ## <em> >> Hello World! </em>
 
-<img src="/imagens/notebookGif-crop.gif" alt="ilustração de um computador" min-width="270px" max-width="270px" width="270px" align="right">
+<img src="./imagens/notebookGif-crop.gif" alt="gif computador com glitch" min-width="270px" max-width="270px" width="270px" align="right">
 
 <p align="left"> 
 Me chamo <b>João Pedro</b> e sou estudante de Análise e Desenvolvimento de Sistemas na ULBRA - Torres <br>
@@ -50,3 +50,6 @@ Procurando estágio como desenvolvedor Front-end ou Web💻
 <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=xJoaoPedro&count_private=true&show_icons=true&theme=tokyonight" />
 <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=xJoaoPedro&layout=compact&theme=tokyonight" />
 </div>
+
+<div align="center">
+<img src="./imagens/loading.gif" alt="gif de barra de loading">
