@@ -1,55 +1,52 @@
+## <em> >> Hello World! </em>
 
----
-<div align="center">
+<img src="/imagens/notebookGif-crop.gif" alt="ilustração de um computador" min-width="270px" max-width="270px" width="270px" align="right">
 
-# *João Pedro da Mata Quadros*
-*-Hello World!*
-</div>
+<p align="left"> 
+Me chamo <b>João Pedro</b> e sou estudante de Análise e Desenvolvimento de Sistemas na ULBRA - Torres <br>
+Procurando estágio como desenvolvedor Front-end ou Web💻
+</p>
 
----
-<div align="center">
+<p align="left">
+ <em> 
+   
+* 19 Anos  🎂 <br>
+* Moro em Capão da Canoa / RS  📍 <br>
+ 
+</p>
 
-Muito prazer, me chamo João Pedro, seguem algumas informações sobre mim:
-<li>Idade: 18 anos 🎂
-<li>Curso: Análise  e Desenvolvimento de sistemas - ULBRA Torres 📚
-<li>Capão da Canoa/RS 🌅
-<li>Linguagens em prática: 💻 <br>
-HTML | CSS | Python 
+<p align="left">
+  📚 Linguagens que estou aprendendo ou praticando no momento: <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="25px" src="https://skillicons.dev/icons?i=html,css,js,cs,py,php">
+</p>  
 
-<br>
+<p align="left">
+  📚 Outros conhecimentos extras que possuo: <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="25px" src="https://skillicons.dev/icons?i=bootstrap,arduino,autocad,figma,git">
+</p>
 
-*- Always learning -*
+</em>
+<hr>
 
-*-= Ser sábio é ser humilde perante o conhecimento =-*
-
----
-</div>
 <div align="center" >
-- Minhas Estatísticas -
+<em> Meios de contato 📩 </em>
 <br><br>
-<img height="125cm" src="https://github-readme-stats.vercel.app/api?username=xJoaoPedro&count_private=true&show_icons=true&theme=tokyonight" />
-<img height="125cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=xJoaoPedro&layout=compact&theme=tokyonight" />
+<div align="center">
+  <a href ="https://drive.google.com/file/d/18j1s0ZHgSPYo3rPWyiCZTuk8Fy4h3lCP/view?usp=sharing"><img src="https://img.shields.io/badge/Curriculo-8A2BE2?style=for-the-badge&logo=document&logoColor=white" target="_blank"></a>
+  <a href ="https://wa.me/5551989544006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href ="mailto:pedjoness28@gmail.com?subject=Ol%C3%A1!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="https://www.linkedin.com/in/xjoaopedro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="https://www.instagram.com/xjoaopedro__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="https://t.me/xJoaoPedrox"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+</div>
 </div>
 
----
-<div align="center">
-- Contato -
+<hr>
+<div align="center" >
+<em> Minhas Estatísticas 📊 </em>
 <br><br>
-<a href="https://wa.me/5551998557211?text=Olá%20João,%20vim%20pelo%20seu%20Github." target="_blank">
-<img height="50cm" src="imagens\zap.png" /></a>
-<a href="https://www.instagram.com/pedjonesss/" target="_blank">
-<img height="50cm" src="imagens\insta.png" /></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-da-mata-quadros-842550269/" target="_blank">
-<img height="50cm" src="imagens\linkedin.png" /></a>
-<a href="https://github.com/xJoaoPedro" target="_blank">
-<img height="50cm" src="imagens\github.png" /></a>
-<a href="mailto:pedjoness28@gmail.com" target="_blank">
-<img height="50cm" src="imagens\email.png" /></a>
+<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=xJoaoPedro&count_private=true&show_icons=true&theme=tokyonight" />
+<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=xJoaoPedro&layout=compact&theme=tokyonight" />
 </div>
-
----
-<div align="center">
-<img height="150cm" src="imagens\luffy.gif" />
-<img height="150cm" src="imagens\luffy2.gif" />
-
----
