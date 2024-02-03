@@ -31,8 +31,8 @@ Procurando estágio como desenvolvedor Front-end ou Web💻
 <hr>
 
 <div align="center" >
-<em> Meios de contato 📩 </em>
-<br><br>
+ 
+#### <em> Meios de contato 📩 </em>
 <div align="center">
   <a href ="https://drive.google.com/file/d/18j1s0ZHgSPYo3rPWyiCZTuk8Fy4h3lCP/view?usp=sharing"><img src="https://img.shields.io/badge/Curriculo-8A2BE2?style=for-the-badge&logo=document&logoColor=white" target="_blank"></a>
   <a href ="https://wa.me/5551989544006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -45,8 +45,8 @@ Procurando estágio como desenvolvedor Front-end ou Web💻
 
 <hr>
 <div align="center" >
-<em> Minhas Estatísticas 📊 </em>
-<br><br>
+ 
+#### <em> Minhas Estatísticas 📊 </em>
 <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=xJoaoPedro&count_private=true&show_icons=true&theme=tokyonight" />
 <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=xJoaoPedro&layout=compact&theme=tokyonight" />
 </div>
