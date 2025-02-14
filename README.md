@@ -2,31 +2,28 @@
 
 <img src="./imagens/notebookGif-crop.gif" alt="gif computador com glitch" min-width="270px" max-width="270px" width="270px" align="right">
 
-<p align="left"> 
-Me chamo <b>João Pedro</b> e sou estudante de Análise e Desenvolvimento de Sistemas na ULBRA - Torres <br>
-Procurando estágio como desenvolvedor Front-end ou Web💻
-</p>
+ 
+### Me chamo <b>João Pedro</b>, estudo Análise e Desenvolvimento de Sistemas<br>
+#### Desenvolvedor Web Full Stack 💻
 
 <p align="left">
  <em> 
    
-* 19 Anos  🎂 <br>
-* Moro em Capão da Canoa / RS  📍 <br>
+🎂 20 Anos <br>
+📍 RS <br>
  
 </p>
 
  <p align="left">
-  📚 Linguagens que estou aprendendo ou praticando no momento: <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML | CSS | Javascript | C# | Python | PHP <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="imagem com as linguagens: html, css, js, c#, python e PHP" height="25px" src="https://skillicons.dev/icons?i=html,css,js,cs,py,php">
+  📚Minha Stack: <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="imagem com linguagens" height="25px" src="https://skillicons.dev/icons?i=html,css,js,angular,php,laravel,tailwind,figma">
 </p>  
 
 <p align="left">
-  📚 Outros conhecimentos extras que possuo: <br>
-  &nbsp;&nbsp;&nbsp; Bootstrap | Arduino | AutoCAD | Figma | Git <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="imagem com conhecimentos extras: bootstrap, arduino, autocad, figma e git" height="25px" src="https://skillicons.dev/icons?i=bootstrap,arduino,autocad,figma,git">
+  🧠 Outros conhecimentos: <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="imagem com conhecimentos extras: git, github, python, csharp, bootstrap, linux, arduino e autocad" height="25px" src="https://skillicons.dev/icons?i=git,github,python,cs,bootstrap,linux,arduino,autocad">
 </p>
 
 </em>
@@ -41,7 +38,6 @@ Procurando estágio como desenvolvedor Front-end ou Web💻
   <a href ="mailto:pedjoness28@gmail.com?subject=Ol%C3%A1!"><img alt="Meu Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://www.linkedin.com/in/xjoaopedro/"><img alt="Meu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="https://www.instagram.com/xjoaopedro__/"><img alt="Meu Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="https://t.me/xJoaoPedrox"><img alt="Meu Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 </div>
 
