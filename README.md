@@ -1,4 +1,4 @@
-# 👋 Hello World!
+# <img src="./imagens/cat-waving-hand.gif" alt="gif computador com glitch" min-width="45px" max-width="45px" width="45px"> Hello World!
 
 ### Full Stack Developer | Laravel • Vue.js • Node.js • React
 
@@ -86,6 +86,6 @@ Atualmente busco continuar evoluindo como desenvolvedor Full Stack, trabalhando 
 
 <div align="center">
 
-<img src="./imagens/readmeend.gif" alt="gif computador com glitch" min-width="270px" max-width="200px" width="200px">
+<img src="./imagens/readmeend.gif" alt="gif computador com glitch" min-width="200px" max-width="200px" width="200px">
 
 </div>
